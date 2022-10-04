@@ -5,7 +5,7 @@ body{
     background-repeat: no-repeat;
 }
 
-.ico,.cenu,.hp1,.lupa,.content,.t,.f,.c,.cherta,.inp,.cnop,.tp{
+.ico,.cenu,.hp1,.lupa,.content,.t,.f,.c,.cherta,.inp,.cnop,.tp,.fd1,.fd2,.fd3{
     position: absolute;
 }
 
@@ -90,7 +90,7 @@ body{
     font-family: Montserrat;
     font-size: 62px;
     line-height: 72px;
-    font-weight: 90;
+    font-weight: 100;
     text-transform: uppercase;
     color: #212121;
     width: 500px;
@@ -126,4 +126,31 @@ body{
 .tp{
     width: 100px;
     left: 30px;
+}
+
+.fd1{
+    background-color: #C7C7C7;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    top: 740px;
+    left: 623px;
+}
+
+.fd2{
+    background-color: #212121;
+    width: 47px;
+    height: 47px;
+    border-radius: 100%;
+    top: 735px;
+    left: 670px;
+}
+
+.fd3{
+    background-color: #C7C7C7;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    top: 740px;
+    left: 727px;
 }
